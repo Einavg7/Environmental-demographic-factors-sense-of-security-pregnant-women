@@ -18,7 +18,7 @@ library(data.table)
 
 #set work directory
 
-setwd('C:\\Users\\einav\\Desktop\\Seminar_Einav_Grinberg\\FinalData')
+setwd('\\FinalData')
 
 
 #add violence data
