@@ -5,6 +5,6 @@ This project hypothesis is that demographic and environmental factors have an ef
 The case study for this project is pregnant women in Massachusetts that answered a questionnare regarding the neighbourhood 
 they live in, their neighbours, the asthetics of the enviornment, their personal sense of security and violent cases that may have occurred. 
 ***
-(for data please contact)
+###### ___for data please contact einavgr@post.bgu.ac.il___
 
 
