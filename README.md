@@ -1,4 +1,4 @@
-# Environmental-demographic-factors-sense-of-security-pregnant-women
+# Impact of environmental and demographic factors on pregnant women's sense of security 
 Seminar project - analysis of sense of securtiy among pregnant women and the connection to enviornmental and demographic factors.
 
 This project hypothesis is that demographic and environmental factors have an effect on one's sense of security.  
